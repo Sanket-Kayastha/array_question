@@ -1,1 +1,1 @@
-These are question of array.
+These are question of array. Important of interview and exam.
